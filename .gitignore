@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.tox/
+.venv/
+reporte/
+GUIA_PANTALLAZOS.md
